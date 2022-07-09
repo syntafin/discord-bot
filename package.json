@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Simple bot who will be just online",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot",
+  ],
+  "author": "Syntafin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syntafin/discord-bot/issues"
+  },
+  "homepage": "https://github.com/syntafin/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+    }
+}
